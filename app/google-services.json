@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "27955758710",
+    "firebase_url": "https://actosoft-1626e.firebaseio.com",
+    "project_id": "actosoft-1626e",
+    "storage_bucket": "actosoft-1626e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27955758710:android:9f004619028c8362",
+        "android_client_info": {
+          "package_name": "com.actosoftcommunity.dialogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27955758710-a44ge5l9tmj56uevqgit95rvm99gtriv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actosoftcommunity.dialogs",
+            "certificate_hash": "3011b836aaacb55497fc32efabc8a6e5a80a469d"
+          }
+        },
+        {
+          "client_id": "27955758710-nfpq0jc4v1me73ueancofou5jk0ktuqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCysviPEw8wis5CqfLAhLsJwL40YzzP8FI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27955758710-nfpq0jc4v1me73ueancofou5jk0ktuqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
