@@ -60,6 +60,7 @@ public class MainActivity extends FragmentActivity implements LoginDialogFragmen
             public void onClick(View view) {
                 Intent registro = new Intent(getApplicationContext(), SignIn.class);
                 startActivity(registro);
+                finish();
             }
         });
     }
